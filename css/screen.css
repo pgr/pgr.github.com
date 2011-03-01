@@ -50,10 +50,6 @@ table {
   font: 100%;
 }
 
-.site .footer .contact{
-	float: right;
-	text-align: right;
-}
 
 /*****************************************************************************/
 /*
@@ -128,8 +124,9 @@ ul.posts {
   }
 
     .site .footer .contact {
-      float: left;
+      float: right;
       margin-right: 3em;
+      text-align: right;
     }
 
       .site .footer .contact a {
