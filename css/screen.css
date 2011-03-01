@@ -50,6 +50,11 @@ table {
   font: 100%;
 }
 
+.site .footer .contact{
+	float: right;
+	text-align: right;
+}
+
 /*****************************************************************************/
 /*
 /* Home
