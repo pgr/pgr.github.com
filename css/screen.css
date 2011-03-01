@@ -42,7 +42,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: black;
 }
 
 table {
@@ -125,7 +125,7 @@ ul.posts {
 
     .site .footer .contact {
       float: right;
-      margin-right: 3em;
+      margin-right: .5em;
       text-align: right;
     }
 
