@@ -13,7 +13,7 @@ title: Error Level Analysis
 Note: After two years, the error level analysis servers have been turned off, to be moved on to other projects.
 </div>
 
-Error Level Analysis was a project run from 2010 to 2012 to algorithmically determine the autheniticity of digital images. It would take an image, process it, and return a copy of with the error levels visualised throughout. 
+Error Level Analysis was a project run from 2010 to 2012 to algorithmically determine the authenticity of digital images. It would take an image, process it, and return a copy of with the error levels visualised throughout. 
 
 In the following example image, the process shows differing error levels throughout, evident by the differing areas of brightness throughout the resulting image. This strongly suggests some form of digital manipulation. Areas to note are the lips and shirt of the models, as well as the eyes. All are at significantly different error levels than their surroundings - they have been digitally manipulated. An image which has had no manipulation should essentially be a single colour - all parts of the image should at a single error level.
 
