@@ -10,6 +10,7 @@ title: FSAE Results Visualisations (FSG 2010)
 ================
 
 <p class="meta">Feburary 2011 - Sydney</p>
+<p class="meta">Filed under: Formula Student, FSAE, data visualisation</p>
 
 In an effort to understand how different Formula SAE teams arrive at their total event score, I've knocked up the following visualisation.
 
