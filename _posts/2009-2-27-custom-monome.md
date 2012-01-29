@@ -27,7 +27,9 @@ Building these by hand based off the work by Brian Crabtree and Kelli Cain, as w
 
 Whilst I am still learning how to use this wonderfully elegant grid, here is some footage of what others are doing:
 
+<div style="margin: 2em auto; display: block;">
 <iframe src="http://player.vimeo.com/video/31212506?byline=0&amp;portrait=0&amp;color=59a5d1" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 specs: 5mm LEDs, 30 degree angle, 618nm, 1300mcd at 20mA, 26.8kOhm common current limiting resistor, powered by 2x Arduino Duemilanovas
 
