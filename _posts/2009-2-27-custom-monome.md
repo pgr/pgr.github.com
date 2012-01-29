@@ -29,6 +29,8 @@ Whilst I am still learning how to use this wonderfully elegant grid, here is som
 
 <iframe src="http://player.vimeo.com/video/31212506?byline=0&amp;portrait=0&amp;color=59a5d1" style="margin:2em auto; display:block;" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-specs: 5mm LEDs, 30 degree angle, 618nm, 1300mcd at 20mA, 26.8kOhm common current limiting resistor, powered by 2x Arduino Duemilanovas
+<div style="color: #AAA;">
+specs: 5mm LEDs, 30 degree angle, 618nm, 1300mcd at 20mA, 26.8kOhm common current limiting resistor, powered by 2x Arduino Duemilanovas, sparkfun button pads.
+</div>
 
 
