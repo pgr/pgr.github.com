@@ -9,16 +9,16 @@ title: FSAE Results Visualisations (FSG 2010)
 {{ page.title }}
 ================
 
-<p class="meta">Feburary 2011 - Sydney</p>
+<p class="meta">February 2011 - Sydney</p>
 <p class="meta">Filed under: Formula Student, FSAE, data visualisation</p>
 
 In an effort to understand how different Formula SAE teams arrive at their total event score, I've knocked up the following visualisation.
 
 * Each horizontal line represents an individual team
 * Each vertical axis represents a single event
-* Cliciking on an axis will colour the teams by their score in that event
+* Clicking on an axis will colour the teams by their score in that event
 * Clicking and dragging along an axis will filter the score over that range. (Filters on multiple axis are fine)
-* (Javascript is required)
+* (JavaScript is required)
 
 
 
