@@ -94,5 +94,5 @@ Alternatively, the full vehicle model (using kinematics mapped against chassis r
 <a href="https://s3.amazonaws.com/github_image_storage/thesis_post/top_ec2.png" alt="Cloud based parallel interface" title="Cloud based parallel interface">
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/top_ec2.png" width="500" height="" alt="" /></a>
 
-<p class="meta">Above: The interface for large scale parallel simulations, showing two individual cluster nodes of 32 processors each (so, 64 CPU's humming along).</p>
+<p class="meta">Above: The interface for large scale parallel simulations, showing two individual cluster nodes of 32 processors each (so, 64 simulations running along in parallel).</p>
 
