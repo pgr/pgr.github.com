@@ -19,7 +19,7 @@ Vehicle Model
 A full vehicle kinematics model was built from the x,y,z location of the physical pickup points for a given chassis. 
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/kinematics_setup.png" width="500" height="" alt="" />
-<p class="meta">Above: A kinematic model built to represent the vehicles suspension.</p>
+<p class="meta">Above: A kinematic model built to represent the vehicles suspension. (Built in OptimumKinematics).</p>
 
 The position and orientation of each wheel was then mapped to inputs of steering angle and chassis roll angle, which allowed the vehicle kinematic properties (ranging from caster, trail, camber and motion ratios fro each corner all the way through to half track, wheelbase and instant centers) to be calculated for any vehicle state (for a given pitch angle and heave displacement).
 
