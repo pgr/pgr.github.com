@@ -9,7 +9,7 @@ title: Simplistic Dynamic Models (Computational Attractors)
 <p class="meta">2012</p>
 <p class="meta">Filed under: Dynamic Systems, Art</p>
 
-After looking at dynamic systems and the mathematical modelling behind them, I was curious about how simplistic a model can be, whilst still being exhibiting complex, dynamic properties.
+After looking at dynamic systems and the mathematical modelling behind them, I was curious about how simplistic a model can be, whilst still exhibiting complex, dynamic properties.
 
 Modelling of a Lorenz attractor defines a particles three-dimensional position over time, given by three simplistic equations. Even simpler though is a De Jong Attractor, which has two time independent governing equations. 
 
