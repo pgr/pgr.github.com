@@ -25,7 +25,7 @@ Building these by hand based off the work by Brian Crabtree and Kelli Cain, as w
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/monome_2.jpg" width="500" height="264" alt="" />
 </a>
 
-Whilst I am still learning how to use this wonderfully elegant grid, here is some footage of what others are doing:
+Whilst I am still learning how to use this thing, here is some footage of what others are doing:
 
 <iframe src="http://player.vimeo.com/video/31212506?byline=0&amp;portrait=0&amp;color=59a5d1" style="margin:2em auto; display:block;" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

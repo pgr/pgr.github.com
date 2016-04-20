@@ -19,6 +19,6 @@ In the following example image, the process shows differing error levels through
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/576ff2a_enhanced.jpg" width="500" height="571" alt="Original image from valleygirl.com.au" />
 
-The website was freely available as a service from 2010 till 2012, at which stage it was closed down to move on to other projects. Over that period, 290,000 images were processed with the results served to over 1.5 million people.
+The website was freely available as a service from 2010 to 2012, at which stage it was closed down to move on to other projects. Over that period, 290,000 images were processed with the results served to over 1.5 million people.
 
 

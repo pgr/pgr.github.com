@@ -19,9 +19,9 @@ Vehicle Model
 A full vehicle kinematics model was built from the x,y,z location of the physical pickup points for a given chassis. 
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/kinematics_setup.png" width="500" height="" alt="" />
-<p class="meta">Above: A kinematic model built to represent the vehicles suspension. (Built in OptimumKinematics).</p>
+<p class="meta">Above: A kinematic model built to represent the vehicle's suspension. (Built in OptimumKinematics).</p>
 
-The position and orientation of each wheel was then mapped to inputs of steering angle and chassis roll angle, which allowed the vehicle kinematic properties (ranging from caster, trail, camber and motion ratios fro each corner all the way through to half track, wheelbase and instant centers) to be calculated for any vehicle state (for a given pitch angle and heave displacement).
+The position and orientation of each wheel was then mapped to inputs of steering angle and chassis roll angle, which allowed the vehicle kinematic properties (ranging from caster, trail, camber and motion ratios for each corner all the way through to half track, wheelbase and instant centers) to be calculated for any vehicle state (for a given pitch angle and heave displacement).
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/low_caster.png" width="500" height="" alt="" />
 <p class="meta">Above: The relationship between steering and chassis roll on the front left and front right camber angles, for a low caster setup (zero static camber present).</p>
@@ -38,14 +38,14 @@ The loads through the chassis were determined by a chassis stiffness model which
 Simulation Work &amp; Visualisation
 -----------------------------------
 
-The bulk of the simulation work centered around quantifying the vehicles performance and handling via the following metrics:
+The bulk of the simulation work centered around quantifying the vehicle's performance and handling via the following metrics:
 
 * Lateral acceleration (maximum and steady state / "trimmed")
-* Vehicle balance (understeer / oversteer tendancy)
+* Vehicle balance (understeer / oversteer tendency)
 * Vehicle stability and control (agility / sensitivity to inputs) 
 * Drive-ability (sensitivity at maximum lateral acceleration states)
 
-The basic methodology utilised to determine these parameters relied heavily on the generation of yaw moment diagrams (yaw moment method) presented by Milliken and Milliken. This method compares the lateral acceleration of a vehicle against it's balance, providing an envelope which dictates both the performance and handling characteristics.
+The basic methodology utilised to determine these parameters relied heavily on the generation of yaw moment diagrams (yaw moment method) presented by Milliken and Milliken. This method compares the lateral acceleration of a vehicle against its balance, providing an envelope which dictates both the performance and handling characteristics.
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/clean_cut_ymm.png" width="500" height="" alt="" />
 
@@ -57,7 +57,7 @@ The basic methodology utilised to determine these parameters relied heavily on t
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/ymm_tip_opt.png" width="500" height="" alt="" />
 
-Once these metrics had been quantified for a specified vehicle setup, the results were also analysed in a qualitative fashion. This provided an idea as to how sensitive each model input was, and which inputs had the most impact on these metrics.
+Once these metrics were quantified for a specified vehicle setup, the results were also analysed qualitatively. This provided an idea as to how sensitive each model input was, and which inputs had the most impact on these metrics.
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/grip.png" width="500" height="" alt="" />
 
@@ -71,7 +71,7 @@ Below: For the same vehicle setup, we can see how the vehicle balance is influen
 
 <img style="margin: 2em auto; display:block;" src="https://s3.amazonaws.com/github_image_storage/thesis_post/balance.png" width="500" height="" alt="" />
 
-From these qualitative visualisations, we can see the changes that need to be made to alter the vehicles grip whilst maintaining a desired balance. Likewise, we can see how to adjust the vehicle balance without compromising grip. 
+From these qualitative visualisations, we can see the changes that need to be made to alter the vehicle's grip whilst maintaining a desired balance. Likewise, we can see how to adjust the vehicle balance without compromising grip. 
 
 If we look at single point of these visualisations, we can further qualify the vehicle state, investigating how effectively (and efficiently) each tire is being used.
 
